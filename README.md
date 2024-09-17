@@ -1,4 +1,9 @@
 # Nutrition Analysis
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/37c52b28-2505-4b8e-ba79-dab6a2abbd51" alt="" width="50%">
+</p>
+
+
 ## 📋 Overview
 The goal of this project is to develop an app that allows users to analyze their physical condition and create a personalized plan based on their goals and preferences, helping them monitor and improve their health. 
 
