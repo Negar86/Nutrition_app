@@ -21,6 +21,9 @@ In this project you will find these folders, which are ordered chronologically f
 
 - **BMI:** Body Mass Index - A measure of body fat based on height and weight that applies to adults.
 - **BMR:** Basal Metabolic Rate - The number of calories your body needs to accomplish its most basic (basal) life-sustaining functions.
-- **TDEE:** Total Daily Energy Expenditure - An estimation of how many calories you burn per day when exercise is taken into account
+- **TDEE:** Total Daily Energy Expenditure - An estimation of how many calories you burn per day when exercise is taken into account.
 
-
+## :hourglass_flowing_sand: A Timeline Always Works Well:
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/fce8839c-db18-49ad-92c4-6e5eb691a156" width="70%" >
+</p>
