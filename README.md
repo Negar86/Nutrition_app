@@ -1,4 +1,4 @@
-# Nutrition Analysis
+# Nutrition 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/37c52b28-2505-4b8e-ba79-dab6a2abbd51" width="50%">
 </p>
