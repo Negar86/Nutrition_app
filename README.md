@@ -49,6 +49,14 @@ In this project you will find these folders, which are ordered chronologically f
 <img width="691" alt="Screenshot 2024-09-25 at 18 38 43" src="https://github.com/user-attachments/assets/6f2e1c3f-cfa7-446a-b066-4fc9cd9f83e6">
 
 
+## 📚 Libraries Use
+- **Pandas**: Utilized for data manipulation and analysis.
+- **Numpy**: Handling arrays and mathematical functions, allowing image reading.
+- **Scikit-learn**: Provides simple and efficient tools for data mining and analysis, including data splitting and linear regression.
+- **Matplotlib**: Data visualization in 2D.
+- **Plotly**: Creation of interactive charts and visualizations.
+- **Streamlit**: Used for creating interactive web application.
+
 
 
 
