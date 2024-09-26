@@ -10,7 +10,7 @@ The goal of this project is to develop an app that allows users to analyze their
 In this project you will find these folders, which are ordered chronologically following the steps in the project:
  
 1. Data (csv) Source: [USDA National Nutrient DB](https://data.world/craigkelly/usda-national-nutrient-db)
-2. EDA (Jupyter notebook)
+2. EDA [(Jupyter notebook)](https://github.com/Negar86/Nutrition_app/blob/main/DB/Nutrition-EDA.ipynb)
 3. Visualization (Tableau)
 4. ML-Clustering (Jupyter notebook)
 5. App (Streamlit)
