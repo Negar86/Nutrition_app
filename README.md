@@ -13,7 +13,7 @@ In this project you will find these folders, which are ordered chronologically f
 2. EDA [(Jupyter notebook)](https://github.com/Negar86/Nutrition_app/blob/main/DB/Nutrition-EDA.ipynb)
 3. Visualization (Tableau)
 4. ML-Clustering [(Jupyter notebook)](https://github.com/Negar86/Nutrition_app/blob/main/DB/Nutrition_Clustering.ipynb)
-5. 5. App (Streamlit)
+5. App (Streamlit)
 6. Presentation (Powerpoint)
 
 ## About Nutrition:
