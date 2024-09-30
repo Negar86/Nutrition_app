@@ -11,7 +11,7 @@ In this project you will find these folders, which are ordered chronologically f
  
 1. Data (csv) Source: [USDA National Nutrient DB](https://data.world/craigkelly/usda-national-nutrient-db)
 2. EDA [(Jupyter notebook)](https://github.com/Negar86/Nutrition_app/blob/main/DB/Nutrition-EDA.ipynb)
-3. Visualization (Tableau)
+3. Visualization [(Tableau)](https://github.com/Negar86/Nutrition_app/blob/main/Nutrition.twbx)
 4. ML-Clustering [(Jupyter notebook)](https://github.com/Negar86/Nutrition_app/blob/main/DB/Nutrition_Clustering.ipynb)
 5. App [(Streamlit)](https://github.com/Negar86/Nutrition_app/tree/main/NutriByte%20app)
 6. Presentation (Powerpoint)
