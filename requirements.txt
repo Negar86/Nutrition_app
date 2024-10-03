@@ -4,4 +4,4 @@ numpy
 matplotlib
 seaborn
 plotly
-
+streamlit.components.v1
